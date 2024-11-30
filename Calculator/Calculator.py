@@ -56,4 +56,3 @@ def calculator():
 
 calculator()
 
-#Thanks for Watch
